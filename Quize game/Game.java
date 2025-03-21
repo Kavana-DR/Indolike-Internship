@@ -1,4 +1,3 @@
-Package Quize game;
 import java.util.Scanner;
 public class Game { 
     public static void main(String[] args) {
@@ -8,7 +7,7 @@ public class Game {
             "Which programming language is used for Android development?\n(a) Python\n(b) Java\n(c) C++\n(d) Swift",
             "What is 5 + 3?\n(a) 6\n(b) 8\n(c) 9\n(d) 7"
         };
-        char[] answers = {'c', 'b', 'b'};  
+        char[] answers = {'a', 'b', 'b'};  
 
         int score = 0;
 
