@@ -1,4 +1,5 @@
 To-Do List App (CLI-Based)
+
  Description:
 This is a simple To-Do List Application built in Java that allows users to manage their daily tasks. Users can add tasks, view the list of tasks, mark tasks as completed, and delete tasks. It’s a user-friendly, console-based application.
 
@@ -13,7 +14,8 @@ This is a simple To-Do List Application built in Java that allows users to manag
 Java for core programming.
 ArrayList for task management.
 Scanner for user input.
-📂 Folder Structure
+
+Folder Structure:
 vbnet
 Copy
 Edit
@@ -22,7 +24,6 @@ Edit
 │   ├── ToDoList.java
 │── README.md
 │── tasks.txt (Optional for storage if implemented)
-
 
 ▶️ How to Run:
 Clone the Repository:
@@ -34,11 +35,8 @@ javac ToDoList.java
 
 Run the Application:
 java ToDoList
-📌 Usage Example
-mathematica
-Copy
-Edit
-📋 To-Do List Menu:
+
+ To-Do List Menu:
 1. Add Task
 2. View Tasks
 3. Mark Task as Completed
@@ -49,9 +47,10 @@ Enter task description: Complete Java assignment
 ✅ Task added!
 
 Choose an option: 2
-🗂️ Your Tasks:
+ Your Tasks:
 1. Complete Java assignment ❗ (Pending)
-💡 Future Enhancements
+
+Future Enhancements:
 File Storage: Implement task saving using tasks.txt.
 Task Prioritization: Allow users to set High, Medium, or Low priority.
 Due Dates: Enable users to add deadlines.
